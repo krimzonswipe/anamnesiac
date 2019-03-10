@@ -396,7 +396,7 @@
     name: "Blade Vortex"
     picture: Blade_Vortex_Stephen
     effects: 
-      - desc: Will not flinch to damage under 40% max HP
+      - desc: Will not flinch to damage under 60% max HP
         duration: 20
         all: true
     power: ATK x 3000%
